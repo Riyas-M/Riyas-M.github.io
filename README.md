@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Frontend Engineer & UI Dev Group Manager with an experience of over 9 years. I have good hands-on experience working with modern web frameworks and technologies. I have extensively worked on Angular and typescript for 5 years.
+I'm a Frontend Engineer & Section Manager with an experience of over 9 years. I have good hands-on experience working with modern web frameworks and technologies, extensively worked on UI/UX & Web Ecosystem.
 
 ---
 
@@ -18,20 +18,23 @@ I am a Frontend Engineer & UI Dev Group Manager with an experience of over 9 yea
 
 ## Experience
 
-### **UI DEV Group Manager**
-### Rakuten MObile Inc
+### **Section Manager - Frontend**
+### Rakuten Mobile Inc
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Leading a team of 15+ UI/UX Developers & Manage E2e delivery/support on Micro-frontend based UI Development for Flagship product of Rakuten Symphony Inc.
+Collaborate across miltiple teams globally & Handle client & vendor communication.
+
 
 ### **Consultant**
 ### Capgemini Technology Services
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Developed UI screens from scatch for esteemed client (EMC - Dell). Worked with angular5, HTML, CSS3, Typescript, Swagger API integration, Lead a team of 4 developers. Migrated FLEX based UI to Modern Webapp.
+
 
 ### **Tech Lead**
 ### ILM Innovative Solutions.
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+Worked on Java, Groovy & Grails. JQuery, Google Maps,Javascript, D3, decent knowledge across domain like, Telecom, Edtech, Financial Services.
 
 ---
 
