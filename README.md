@@ -1,6 +1,6 @@
 ## Portfolio
 
-I'm a Frontend Engineer & Section Manager with an experience of over 9 years. I have good hands-on experience working with modern web frameworks and technologies, extensively worked on UI/UX & Web Ecosystem.
+I'm a Frontend Engineer & Senior Manager with an experience of over 10 years. Good hands-on experience working with modern web frameworks and technologies, extensively worked on UI/UX & Web Ecosystem.
 
 ---
 
@@ -18,7 +18,7 @@ I'm a Frontend Engineer & Section Manager with an experience of over 9 years. I 
 
 ## Experience
 
-### **Section Manager - Frontend**
+### **Senior Manager - Frontend/ UI - UX**
 ### Rakuten Mobile Inc
 
 Leading a team of 15+ UI/UX Developers & Manage E2e delivery/support on Micro-frontend based UI Development for Flagship product of Rakuten Symphony Inc.
